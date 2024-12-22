@@ -11,7 +11,7 @@
 
 ### 🌟 About Me
 I am Akash Dwivedi, a Software Developer passionate about creating innovative and impactful software solutions. With expertise in Python, JavaScript, PHP, and frameworks like Next.js and CodeIgniter, I specialize in building web applications, automation tools, and data-driven platforms.
-I enjoy solving real-world problems through technology, whether by automating repetitive processes, analyzing trends, or enhancing learning experiences with interactive tools. My work is driven by a commitment to learning and contributing to meaningful projects that combine creativity with functionality.
+I enjoy solving real-world problems through technology by automating repetitive processes, analyzing trends, or enhancing learning experiences with interactive tools. My work is driven by a commitment to learning and contributing to meaningful projects combining creativity and functionality.
 Always eager to expand my skills, I’m exploring new domains and seeking opportunities to collaborate on projects that leverage IoT, green technology, and advanced development practices.
 
 ---
@@ -43,7 +43,7 @@ Always eager to expand my skills, I’m exploring new domains and seeking opport
 
 ---
 
-### 📈 GitHub Stats
+<h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=I-am-akash-dwivedi&show_icons=true&theme=radical" />
@@ -52,8 +52,10 @@ Always eager to expand my skills, I’m exploring new domains and seeking opport
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=I-am-akash-dwivedi&theme=radical" />
 </p>
 
-### 🌐 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-akash-dwivedi&layout=compact&theme=radical)
+<h3 align="center">🌐 Top Languages</h3>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-akash-dwivedi&layout=compact&theme=radical" />
+</p>
 
 ---
 
