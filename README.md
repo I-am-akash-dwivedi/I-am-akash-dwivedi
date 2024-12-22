@@ -47,6 +47,8 @@ Always eager to expand my skills, I’m exploring new domains and seeking opport
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=I-am-akash-dwivedi&show_icons=true&theme=radical" />
+</p>
+<p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=I-am-akash-dwivedi&theme=radical" />
 </p>
 
